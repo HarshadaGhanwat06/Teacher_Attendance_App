@@ -6,7 +6,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'attendance_screen.dart';
 
 
-// Main entry point of the Flutter app
+// Main entry point of the Flutter app.
 void main() async {
   // Ensures that all bindings and services are initialized before runApp()
   WidgetsFlutterBinding.ensureInitialized();
