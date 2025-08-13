@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:intl/intl.dart';
 
-// Import your tabs
+// Import your tabs here
 import 'attendance_tab.dart';
 import 'history_tab.dart';
 import 'profile_tab.dart';
